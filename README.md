@@ -1,4 +1,4 @@
-### Hi, I'm Sachith 👋
+### Hi, I'm Sachith 👋🧑‍💻
 
 <!--
 **sachithpd/sachithpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
